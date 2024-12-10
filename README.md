@@ -27,3 +27,9 @@ Successfully booked seats: Row 1, Seat 1, Row 1, Seat 2, Row 1, Seat 3
 
 Seat Availability:
 Row 1: [X] [X] [X] [O] [O] [O] [O]
+
+
+
+
+To Run need python Installed,
+python main.py
